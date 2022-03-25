@@ -143,6 +143,10 @@ h3 {
     font-family: 'Montserrat', serif;
 }
 
+.footer-link:hover {
+    color: white;
+}
+
 .kk {
     color: #40514E;
     font-size: 0.8rem;
