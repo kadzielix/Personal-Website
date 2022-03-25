@@ -140,9 +140,11 @@ h3 {
 .footer-link {
     color: #11999E;
     text-decoration: none;
+    font-family: 'Montserrat', serif;
 }
 
 .kk {
     color: #40514E;
     font-size: 0.8rem;
+    font-family: 'Montserrat', serif;
 }
